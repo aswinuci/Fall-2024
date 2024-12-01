@@ -1,0 +1,63 @@
+conf_abbr,name,rank
+AAAI,National Conference of the American Association for Artificial Intelligence,A*
+ACL,Association of Computational Linguistics,A*
+ASPLOS,Architectural Support for Programming Languages and Operating Systems,A*
+CAV,Computer Aided Verification,A*
+CCS,ACM Conference on Computer and Communications Security,A*
+CHI,International Conference on Human Factors in Computing Systems,A*
+CRYPTO,Advances in Cryptology,A*
+EUROCRYPT,International Conference on the Theory and Application of Cryptographic Techniques,A*
+FOCS,IEEE Symposium on Foundations of Computer Science,A*
+HPCA,International Symposium on High Performance Computer Architecture,A*
+ICCV,IEEE International Conference on Computer Vision,A*
+ICDE,International Conference on Data Engineering,A*
+ICFP,International Conference on Functional Programming,A*
+ICML,International Conference on Machine Learning,A*
+ICSE,International Conference on Software Engineering,A*
+IJCAI,International Joint Conference on Artificial Intelligence,A*
+ISCA,ACM International Symposium on Computer Architecture,A*
+LICS,IEEE Symposium on Logic in Computer Science,A*
+OOPSLA,ACM Conference on Object Oriented Programming Systems Languages and Applications,A*
+OSDI,Usenix Symposium on Operating Systems Design and Implementation,A*
+PLDI,ACM SIGPLAN Conference on Programming Language Design and Implementation,A*
+PODS,ACM SIGMOD SIGACT SIGART Conference on Principles of Database Systems,A*
+POPL,ACM SIGACT Symposium on Principles of Programming Languages,A*
+SIGGRAPH,ACM SIG International Conference on Computer Graphics and Interactive Techniques,A*
+SIGIR,ACM International Conference on Research and Development in Information Retrieval,A*
+SIGKDD,ACM International Conference on Knowledge Discovery and Data Mining,A*
+SIGMOD,ACM Special Interest Group on Management of Data Conference,A*
+SODA,ACM/SIAM Symposium on Discrete Algorithms,A*
+SOSP,ACM SIGOPS Symposium on Operating Systems Principles,A*
+STOC,ACM Symposium on Theory of Computing,A*
+VLDB,International Conference on Very Large Databases,A*
+WWW,International World Wide Web Conference,A*
+ASE,Automated Software Engineering Conference,A
+CVPR,IEEE Conference on Computer Vision and Pabern Recognition,A
+ECCV,European Conference on Computer Vision,A
+EMNLP,Empirical Methods in Natural Language Processing,A
+EUROSYS,Eurosys Conference,A
+FAST,Conference on File and Storage Technologies,A
+FSE,ACM SIGSOFT International Symposium on the Foundations of Software Engineering,A
+HPDC,ACM International Symposium on High Performance Distributed Computing,A
+ICCAD,IEEE/ACM International Conference on Computer Aided Design,A
+ICS,ACM International Conference on Supercomputing,A
+VIS,IEEE Visualization IEEE,A
+IMC,Internet Measurement Conference,A
+ISMB,Intelligent Systems in Molecular Biology,A
+ISSTA,International Symposium on Software Testing and Analysis,A
+NAACL,North American Association for Computational Linguistics,A
+NDSS,Usenix Network and Distributed System Security Symposium,A
+SC,ACM/IEEE Supercomputing Conference,A
+SIGCOMM,"ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",A
+SIGCSE,ACM Special Interest Group on Computer Science Education Conference,A
+UIST,ACM Symposium on User Interface Software and Technology,A
+EC,ACM Conference on Electronic Commerce,B
+FSE2,International Workshop on Fast Software Encryption,B
+MOBISYS,"ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",B
+NSDI,"Symposium on Networked Systems, Design and Implementation",B
+RECOMB,International Conference on Computational Molecular Biology,B
+SC2,International Conference on Software Composition,B
+VR,IEEE Virtual Reality Conference,B
+DAC,Digital Arts and Culture,C
+VR2,Euro Virtual Reality Euro,C
+EC2,USENIX Workshop on Electronic Commerce USENIX,C

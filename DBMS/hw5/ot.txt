@@ -1,0 +1,3 @@
+Kendall Tau Correlation (Star vs US News): 0.040
+Kendall Tau Correlation (Balanced vs US News): 0.040
+Kendall Tau Correlation (General vs US News): 0.040
