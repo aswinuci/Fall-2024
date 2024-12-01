@@ -1,0 +1,43 @@
+university_name,alias_names,state,city,zip,institutional_control,rank,tied,acceptance_rate,tuition,enrollment
+Princeton University,,NJ,Princeton,8544,private,1,False,6,59710,5604
+Massachusetts Institute of Technology,MIT,MA,Cambridge,2139,private,2,False,4,60156,4657
+Stanford University,,CA,Stanford,94305,private,3,True,4,62484,8049
+Harvard University,,MA,Cambridge,2138,private,3,True,3,59076,7240
+Yale University,,CT,New Haven,6520,private,5,False,5,64700,6645
+University of Pennsylvania,UPenn,PA,Philadelphia,19104,private,6,False,7,66104,9760
+Duke University,,NC,Durham,27708,private,7,True,6,66172,6640
+California Institute of Technology,CalTech Cal Tech,CA,Pasadena,91125,private,7,True,3,63255,982
+Northwestern University,,IL,Evanston,60208,private,9,True,7,65997,8659
+Brown University,,RI,Providence,2912,private,9,True,5,68230,7639
+Johns Hopkins University,JHU,MD,Baltimore,21218,private,9,True,7,63340,6044
+University of Chicago,UChicago,IL,Chicago,60637,private,12,True,5,65619,7470
+Columbia University,,NY,New York,10027,private,12,True,4,65524,8832
+Cornell University,,NY,Ithaca,14853,private,12,True,7,66014,15735
+"University of California, Los Angeles",UCLA University of California Los Angeles,CA,Los Angeles,90095,public,15,True,9,46326,32423
+"University of California, Berkeley",UC Berkeley Cal Berkeley University of California Berkeley,CA,Berkeley,94720,public,15,True,11,48465,32831
+Rice University,,TX,Houston,77005,private,17,False,9,58128,4494
+Dartmouth College,,NH,Hanover,3755,private,18,True,6,65511,4458
+Vanderbilt University,,TN,Nashville,37240,private,18,True,7,63946,7151
+University of Notre Dame,Notre Dame,IN,Notre Dame,46556,private,20,False,13,62693,8971
+University of Michigan--Ann Arbor,UM University of Michigan Ann Arbor,MI,Ann Arbor,48109,public,21,False,18,57273,32695
+University of North Carolina at Chapel Hill,UNC University of North Carolina Chapel Hill,NC,Chapel Hill,27599,public,22,True,17,39338,20210
+Georgetown University,,DC,Washington,20057,private,22,True,12,65082,7900
+University of Virginia,UVA,VA,Charlottesville,22904,public,24,True,19,58950,17496
+Washington University in St. Louis,WashU Washington University in St Louis Washington University in Saint Louis,MO,St. Louis,63130,private,24,True,11,62982,8132
+Carnegie Mellon University,CMU,PA,Pittsburgh,15213,private,24,True,11,63829,7509
+Emory University,,GA,Atlanta,30322,private,24,True,11,60774,7101
+University of Southern California,USC Southern Cal,CA,Los Angeles,90089,private,28,True,12,68237,20699
+"University of California, San Diego",UCSD University of California San Diego,CA,La Jolla,92093,public,28,True,24,48630,33096
+University of Florida,,FL,Gainesville,32611,public,28,True,23,28658,34552
+"University of California, Davis",UC Davis University of California Davis,CA,Davis,95616,public,28,True,37,46043,31532
+University of Texas at Austin,UT Austin University of Texas Austin,TX,Austin,78705,public,32,False,31,41070,41309
+"University of California, Irvine",UC Irvine UCI University of California Irvine,CA,Irvine,92697,public,33,True,21,47759,28661
+Georgia Institute of Technology,Georgia Tech,GA,Atlanta,30332,public,33,True,17,32876,18415
+"University of California, Santa Barbara",UCSB UC Santa Barbara University of California Santa Barbara,CA,Santa Barbara,93106,public,35,True,26,45658,23460
+University of Illinois Urbana-Champaign,University of Illinois Urbana Champaign,IL,Champaign,61820,public,35,True,45,36068,35120
+University of Wisconsin--Madison,University of Wisconsin Madison,WI,Madison,53706,public,35,True,49,40603,37230
+New York University,NYU,NY,New York,10012,private,35,True,12,60438,29401
+Boston College,BC,MA,Chestnut Hill,2467,private,39,False,17,67680,9484
+University of Washington,,WA,Seattle,98195,public,40,True,48,41997,36872
+Tufts University,,MA,Medford,2155,private,40,True,10,67844,6815
+Rutgers University--New Brunswick,"Rutgers University Rutgers, the State University of New Jersey New Brunswick",NJ,Piscataway,8854,public,40,True,66,36001,36344

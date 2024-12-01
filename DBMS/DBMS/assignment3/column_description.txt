@@ -1,0 +1,77 @@
+
+mysql> SELECT 
+    ->     TABLE_NAME AS table_name,
+    ->     COLUMN_NAME AS column_name,
+    ->     DATA_TYPE AS data_type
+    -> FROM 
+    ->     information_schema.COLUMNS
+    -> WHERE 
+    ->     TABLE_SCHEMA = 'sample_db'
+    -> ORDER BY 
+    ->     TABLE_NAME, ORDINAL_POSITION;
++-----------------------------------+-----------------------+-----------+
+| table_name                        | column_name           | data_type |
++-----------------------------------+-----------------------+-----------+
+| author                            | name                  | text      |
+| author                            | affiliation           | text      |
+| author                            | homepage              | text      |
+| author                            | scholarid             | text      |
+| author                            | turing_award          | int       |
+| author                            | acm_fellow            | int       |
+| author                            | region                | text      |
+| author                            | country               | text      |
+| author                            | begin_time            | int       |
+| author                            | end_time              | double    |
+| author_subset                     | name                  | text      |
+| author_subset                     | affiliation           | text      |
+| author_subset                     | homepage              | text      |
+| author_subset                     | scholarid             | text      |
+| author_subset                     | turing_award          | int       |
+| author_subset                     | acm_fellow            | int       |
+| author_subset                     | region                | text      |
+| author_subset                     | country               | text      |
+| author_subset                     | begin_time            | int       |
+| author_subset                     | end_time              | double    |
+| conference_ranking                | conf_abbr             | text      |
+| conference_ranking                | name                  | text      |
+| conference_ranking                | rank                  | text      |
+| conference_ranking_subset         | conf_abbr             | text      |
+| conference_ranking_subset         | name                  | text      |
+| conference_ranking_subset         | rank                  | text      |
+| field_conference                  | major                 | text      |
+| field_conference                  | field                 | text      |
+| field_conference                  | conference            | text      |
+| field_conference_subset           | major                 | text      |
+| field_conference_subset           | field                 | text      |
+| field_conference_subset           | conference            | text      |
+| pub_info                          | name                  | text      |
+| pub_info                          | conference            | text      |
+| pub_info                          | count                 | int       |
+| pub_info                          | year                  | int       |
+| pub_info_subset                   | name                  | text      |
+| pub_info_subset                   | conference            | text      |
+| pub_info_subset                   | count                 | int       |
+| pub_info_subset                   | year                  | int       |
+| usnews_university_rankings        | university_name       | text      |
+| usnews_university_rankings        | alias_names           | text      |
+| usnews_university_rankings        | state                 | text      |
+| usnews_university_rankings        | city                  | text      |
+| usnews_university_rankings        | zip                   | int       |
+| usnews_university_rankings        | institutional_control | text      |
+| usnews_university_rankings        | rank                  | int       |
+| usnews_university_rankings        | tied                  | int       |
+| usnews_university_rankings        | acceptance_rate       | int       |
+| usnews_university_rankings        | tuition               | int       |
+| usnews_university_rankings        | enrollment            | int       |
+| usnews_university_rankings_subset | university_name       | text      |
+| usnews_university_rankings_subset | alias_names           | text      |
+| usnews_university_rankings_subset | state                 | text      |
+| usnews_university_rankings_subset | city                  | text      |
+| usnews_university_rankings_subset | zip                   | int       |
+| usnews_university_rankings_subset | institutional_control | text      |
+| usnews_university_rankings_subset | rank                  | int       |
+| usnews_university_rankings_subset | tied                  | int       |
+| usnews_university_rankings_subset | acceptance_rate       | int       |
+| usnews_university_rankings_subset | tuition               | int       |
+| usnews_university_rankings_subset | enrollment            | int       |
++-----------------------------------+-----------------------+-----------+

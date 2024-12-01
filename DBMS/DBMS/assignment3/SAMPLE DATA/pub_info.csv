@@ -1,0 +1,159 @@
+name,conference,count,year
+Aditya G. Parameswaran,ICDE,1,2021
+Aditya G. Parameswaran,SIGMOD,2,2020
+Aditya G. Parameswaran,SIGMOD,1,2021
+Aditya G. Parameswaran,VIS,1,2020
+Aditya G. Parameswaran,VLDB,1,2020
+Aditya G. Parameswaran,VLDB,4,2021
+Aditya G. Parameswaran,VLDB,2,2022
+Aggelos K. Katsaggelos,CVPR,1,2020
+Alberto L. Sangiovanni-Vincentelli,CVPR,1,2021
+Alexander C. Berg,CVPR,1,2021
+Alexander C. Berg,CVPR,1,2022
+Alexander C. Berg,ICCV,1,2021
+Alexei A. Efros,CVPR,1,2020
+Alexei A. Efros,CVPR,1,2021
+Alexei A. Efros,CVPR,3,2022
+Alexei A. Efros,ECCV,5,2020
+Alexei A. Efros,ECCV,6,2022
+Alexei A. Efros,ICCV,1,2021
+Andrew Crotty,ICDE,1,2020
+Andrew Crotty,ICDE,1,2021
+Andrew Crotty,SIGMOD,2,2020
+Angjoo Kanazawa,CVPR,3,2021
+Angjoo Kanazawa,CVPR,5,2022
+Angjoo Kanazawa,ECCV,2,2020
+Angjoo Kanazawa,ECCV,4,2022
+Angjoo Kanazawa,ICCV,4,2021
+Anthony D. Joseph,VLDB,1,2020
+Anthony D. Joseph,VLDB,1,2021
+Benjamin Recht,CVPR,1,2022
+Benjamin Recht,ICCV,1,2021
+Caleb Stanford,PODS,1,2021
+Charless C. Fowlkes,CVPR,1,2020
+Charless C. Fowlkes,CVPR,2,2021
+Charless C. Fowlkes,CVPR,1,2022
+Chen Li 0001,SIGMOD,1,2020
+Chen Li 0001,SIGMOD,1,2022
+Chen Li 0001,VLDB,2,2020
+Chen Li 0001,VLDB,2,2022
+David A. Wagner 0001,ECCV,1,2022
+Dawn Song,CVPR,1,2020
+Dawn Song,CVPR,3,2021
+Dawn Song,CVPR,1,2022
+Dawn Song,ICCV,1,2021
+Dawn Song,ICDE,1,2021
+Dawn Song,SIGMOD,1,2020
+Dongyu Liu,SIGMOD,1,2022
+Dongyu Liu,VIS,3,2022
+Faisal Nawab,ICDE,3,2021
+Faisal Nawab,ICDE,1,2022
+Hamed Pirsiavash,CVPR,1,2020
+Hamed Pirsiavash,CVPR,2,2022
+Hamed Pirsiavash,ECCV,2,2022
+Hamed Pirsiavash,ICCV,2,2021
+Hao Chen 0003,ECCV,1,2020
+Hyoukjun Kwon,CVPR,1,2022
+Ion Stoica,ECCV,1,2022
+Ion Stoica,SIGMOD,1,2022
+Ion Stoica,VLDB,1,2020
+Ion Stoica,VLDB,3,2021
+Ion Stoica,VLDB,1,2022
+Jacob Steinhardt,CVPR,2,2021
+Jacob Steinhardt,CVPR,1,2022
+Jacob Steinhardt,ICCV,1,2021
+Jason D. Hartline,VIS,1,2022
+Jelani Nelson,PODS,1,2022
+Jennie Rogers,SIGMOD,1,2021
+Jennie Rogers,VLDB,1,2020
+Jessica Hullman,VIS,2,2020
+Jessica Hullman,VIS,2,2021
+Jessica Hullman,VIS,4,2022
+Jiawei Zhang 0001,ICDE,1,2021
+Jitendra Malik,CVPR,1,2020
+Jitendra Malik,CVPR,11,2022
+Jitendra Malik,ECCV,6,2020
+Jitendra Malik,ICCV,4,2021
+John F. Canny,CVPR,1,2020
+Joseph Gonzalez 0001,CVPR,1,2020
+Joseph Gonzalez 0001,CVPR,1,2021
+Joseph Gonzalez 0001,CVPR,1,2022
+Joseph Gonzalez 0001,ECCV,2,2022
+Joseph Gonzalez 0001,ICCV,2,2021
+Joseph Gonzalez 0001,VLDB,3,2020
+Joseph Gonzalez 0001,VLDB,1,2021
+Joseph M. Hellerstein,SIGMOD,1,2020
+Joseph M. Hellerstein,VIS,1,2022
+Joseph M. Hellerstein,VLDB,3,2020
+Joseph M. Hellerstein,VLDB,1,2021
+Joseph M. Hellerstein,VLDB,1,2022
+Junshan Zhang,CVPR,1,2021
+Koushik Sen,ECCV,1,2022
+Koushik Sen,VLDB,1,2020
+Kurt Keutzer,CVPR,1,2020
+Kurt Keutzer,CVPR,3,2021
+Kurt Keutzer,ECCV,1,2020
+Kurt Keutzer,ECCV,3,2022
+Kurt Keutzer,ICCV,2,2021
+Kwan-Liu Ma,VIS,5,2020
+Kwan-Liu Ma,VIS,4,2021
+Kwan-Liu Ma,VIS,1,2022
+Laura Waller,CVPR,1,2022
+Manling Li,CVPR,1,2022
+Marti A. Hearst,VLDB,1,2021
+Matei Zaharia,SIGMOD,3,2022
+Matei Zaharia,VLDB,3,2020
+Matei Zaharia,VLDB,2,2021
+Matei Zaharia,VLDB,2,2022
+Matthew Kay 0001,VIS,2,2021
+Michael J. Carey 0001,ICDE,1,2022
+Michael J. Carey 0001,SIGMOD,1,2022
+Michael J. Carey 0001,VLDB,3,2020
+Michael J. Carey 0001,VLDB,1,2021
+Michael J. Carey 0001,VLDB,2,2022
+Mohammad Sadoghi,ICDE,1,2021
+Mohammad Sadoghi,VLDB,1,2020
+Mohammad Sadoghi,VLDB,1,2021
+Muhao Chen,VLDB,1,2020
+Nalini Venkatasubramanian,VLDB,1,2020
+Natacha Crooks,VLDB,1,2021
+Natacha Crooks,VLDB,2,2022
+Oliver Cossairt,CVPR,1,2020
+Oliver Cossairt,ICCV,1,2021
+Pieter Abbeel,CVPR,1,2021
+Pieter Abbeel,CVPR,1,2022
+Pieter Abbeel,ECCV,2,2022
+Pieter Abbeel,ICCV,1,2021
+Qi Alfred Chen,CVPR,2,2022
+Qi Zhu 0002,CVPR,1,2022
+Qi Zhu 0002,ICCV,1,2021
+Ren Ng,CVPR,1,2020
+Ren Ng,CVPR,1,2021
+Ren Ng,CVPR,1,2022
+Ren Ng,ECCV,1,2020
+Ren Ng,ICCV,2,2021
+Sanjit A. Seshia,CVPR,1,2020
+Sergey Levine,CVPR,1,2020
+Sergey Levine,ECCV,1,2020
+Sharad Mehrotra,ICDE,1,2020
+Sharad Mehrotra,SIGMOD,1,2021
+Sharad Mehrotra,VLDB,3,2020
+Sharad Mehrotra,VLDB,1,2021
+Sharad Mehrotra,VLDB,3,2022
+Shuang Zhao,CVPR,1,2021
+Sitao Huang,VLDB,1,2021
+Trevor Darrell,CVPR,5,2020
+Trevor Darrell,CVPR,5,2021
+Trevor Darrell,CVPR,6,2022
+Trevor Darrell,ECCV,6,2020
+Trevor Darrell,ECCV,4,2022
+Trevor Darrell,ICCV,7,2021
+Xiao Wang 0012,CVPR,1,2022
+Xiao Wang 0012,SIGMOD,1,2021
+Xiao Wang 0012,VLDB,1,2020
+Xiaohui Xie,CVPR,2,2022
+Xiaohui Xie,ECCV,2,2022
+Xiaohui Xie,ICCV,1,2021
+Xin Liu 0002,CVPR,1,2021
+Yi Ma 0001,CVPR,3,2021
+Yi Ma 0001,CVPR,2,2022

@@ -1,0 +1,356 @@
+===== Question 1 =====
+===== Question 1 =====
+name	conference	year	count
+Aditya G. Parameswaran	VLDB	2022	2
+Aditya G. Parameswaran	VLDB	2021	4
+Aditya G. Parameswaran	VLDB	2020	1
+Aditya G. Parameswaran	SIGMOD	2021	1
+Aditya G. Parameswaran	SIGMOD	2020	2
+Aditya G. Parameswaran	ICDE	2021	1
+Anthony D. Joseph	VLDB	2021	1
+Anthony D. Joseph	VLDB	2020	1
+Dawn Song	SIGMOD	2020	1
+Dawn Song	ICDE	2021	1
+Ion Stoica	VLDB	2022	1
+Ion Stoica	VLDB	2021	3
+Ion Stoica	VLDB	2020	1
+Ion Stoica	SIGMOD	2022	1
+Jelani Nelson	PODS	2022	1
+Joseph Gonzalez 0001	VLDB	2021	1
+Joseph Gonzalez 0001	VLDB	2020	3
+Joseph M. Hellerstein	VLDB	2022	1
+Joseph M. Hellerstein	VLDB	2021	1
+Joseph M. Hellerstein	VLDB	2020	3
+Joseph M. Hellerstein	SIGMOD	2020	1
+Koushik Sen	VLDB	2020	1
+Marti A. Hearst	VLDB	2021	1
+Matei Zaharia	VLDB	2022	2
+Matei Zaharia	VLDB	2021	2
+Matei Zaharia	VLDB	2020	3
+Matei Zaharia	SIGMOD	2022	3
+Natacha Crooks	VLDB	2022	2
+Natacha Crooks	VLDB	2021	1
+
+
+===== Question 2 =====
+===== Question 2 =====
+conference
+SIGMOD
+VLDB
+ICDE
+PODS
+VIS
+VR
+CVPR
+ECCV
+ICCV
+
+
+===== Question 3 =====
+===== Question 3 =====
+conference	year	name	affiliation
+VLDB	2021	Aditya G. Parameswaran	University of California, Berkeley
+SIGMOD	2021	Aditya G. Parameswaran	University of California, Berkeley
+SIGMOD	2020	Aditya G. Parameswaran	University of California, Berkeley
+SIGMOD	2020	Andrew Crotty	Northwestern University
+ICDE	2020	Andrew Crotty	Northwestern University
+PODS	2021	Caleb Stanford	University of California, Davis
+ICDE	2022	Faisal Nawab	University of California, Irvine
+ICDE	2021	Faisal Nawab	University of California, Irvine
+PODS	2022	Jelani Nelson	University of California, Berkeley
+SIGMOD	2021	Jennie Rogers	Northwestern University
+VLDB	2020	Joseph Gonzalez 0001	University of California, Berkeley
+VLDB	2020	Joseph M. Hellerstein	University of California, Berkeley
+VLDB	2020	Matei Zaharia	University of California, Berkeley
+SIGMOD	2022	Matei Zaharia	University of California, Berkeley
+VLDB	2020	Michael J. Carey 0001	University of California, Irvine
+ICDE	2022	Michael J. Carey 0001	University of California, Irvine
+VLDB	2022	Sharad Mehrotra	University of California, Irvine
+VLDB	2020	Sharad Mehrotra	University of California, Irvine
+SIGMOD	2021	Sharad Mehrotra	University of California, Irvine
+ICDE	2020	Sharad Mehrotra	University of California, Irvine
+SIGMOD	2021	Xiao Wang 0012	Northwestern University
+
+
+===== Question 4 =====
+===== Question 4 =====
+university_name
+University of California, Berkeley
+University of California, Davis
+
+
+===== Question 5 =====
+===== Question 5 =====
+university_name
+Princeton University
+Massachusetts Institute of Technology
+Stanford University
+Harvard University
+Yale University
+University of Pennsylvania
+Duke University
+California Institute of Technology
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Northwestern University
+Brown University
+Johns Hopkins University
+University of Chicago
+Columbia University
+Cornell University
+University of California, Los Angeles
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+University of California, Berkeley
+Rice University
+Dartmouth College
+Vanderbilt University
+University of Notre Dame
+University of Michigan--Ann Arbor
+University of North Carolina at Chapel Hill
+Georgetown University
+University of Virginia
+Washington University in St. Louis
+Carnegie Mellon University
+Emory University
+University of Southern California
+University of California, San Diego
+University of Florida
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of California, Davis
+University of Texas at Austin
+
+

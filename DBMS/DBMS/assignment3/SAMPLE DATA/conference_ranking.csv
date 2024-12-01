@@ -1,0 +1,11 @@
+conf_abbr,name,rank
+ICCV,IEEE International Conference on Computer Vision,A*
+ICDE,International Conference on Data Engineering,A*
+PODS,ACM SIGMOD SIGACT SIGART Conference on Principles of Database Systems,A*
+SIGMOD,ACM Special Interest Group on Management of Data Conference,A*
+VLDB,International Conference on Very Large Databases,A*
+CVPR,IEEE Conference on Computer Vision and Pabern Recognition,A
+ECCV,European Conference on Computer Vision,A
+VIS,IEEE Visualization IEEE,A
+VR,IEEE Virtual Reality Conference,B
+VR,Euro Virtual Reality Euro,C

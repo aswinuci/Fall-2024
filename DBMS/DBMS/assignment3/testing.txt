@@ -1,0 +1,62 @@
+select author.name, pub_info.conference, pub_info.year, pub_info.count from pub_info
+join author on author.name = pub_info.name 
+join field_conference on field_conference.conference = pub_info.conference
+where field = 'Databases' and year>=2010 and year<=2024 and affiliation = 'University of California, Berkeley';
+
+
+
+SELECT fc.conference
+FROM field_conference fc
+WHERE fc.major = 'Computer Science'
+AND fc.conference NOT IN (
+    SELECT pi.conference
+    FROM pub_info pi
+    JOIN author a ON pi.name = a.name
+    WHERE a.affiliation = 'University of California, Irvine'
+);
+
+
+
+
+SELECT a.affiliation AS university
+FROM author a
+JOIN pub_info pi ON a.name = pi.name
+JOIN field_conference fc ON pi.conference = fc.conference
+WHERE fc.field = 'Databases'
+  AND pi.year BETWEEN 2020 AND 2024
+AND pi.conference in (
+    SELECT DISTINCT conference
+    FROM field_conference
+    WHERE field = 'Databases'
+);
+
+
+
+
+
+select conference from field_conference  
+join conference_ranking on conference_ranking.conf_abbr = field_conference.conference 
+where field = 'Databases' and `rank`='A*';
+
+
+select distinct conference from pub_info where author in 
+(select name from author
+where author.affiliation in 
+(select university_name from usnews_university_rankings 
+where `rank` < (select `rank` from usnews_university_rankings where 
+university_name = 'University of California, Irvine')))
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
